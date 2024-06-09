@@ -37,7 +37,7 @@
 <p align="center"><a href="https://komarev.com/ghpvc/?username=Frosty004&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=Frosty004&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 <p align="center"><a href="https://github.com/Frosty004"><img src="https://github-readme-stats.vercel.app/api?username=Frosty004&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Frosty004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGXeon&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/Frosty004"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frosty004&theme=radical&layout=compact"></a></p>
 
 ---
 
